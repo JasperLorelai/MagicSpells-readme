@@ -1,0 +1,36 @@
+[center]
+[img]https://media.discordapp.net/attachments/335237931633606656/595352328341684427/Untitled.png[/img]
+[hr]
+[size=8][i]Magic without writing Java[/i][/size]
+[url=https://discord.magicspells.dev][img]https://raster.shields.io/discord/335237931633606656?color=5562e9&logo=discord&logoColor=white[/img][/url][url=https://github.com/TheComputerGeek2/MagicSpells/releases][img]https://raster.shields.io/github/downloads/TheComputerGeek2/MagicSpells/total.svg[/img][/url][img]https://raster.shields.io/bstats/servers/892[/img]
+[/center]
+
+MagicSpells is a [url=https://papermc.io/]Paper[/url] plugin which gives its users the ability to modify their Minecraft servers by configuring existing features without writing Java code.  It provides you with the tools for playing with blocks of logic, bringing other plugins together, playing fantastic special effects, making your own new mechanics, and more.
+
+Check out more examples of what this plugin can do in our [url=https://discord.magicspells.dev]Discord server[/url] (in the [url=https://canary.discord.com/channels/335237931633606656/468537255925907466]showcase channel[/url]).
+
+[hr]
+[size=8]Resources 📝[/size]
+[list]
+[*][url=url=https://github.com/TheComputerGeek2/MagicSpells/]Source Code[/url]
+[*][url=https://github.com/TheComputerGeek2/MagicSpells/releases]Plugin Releases (Downloads)[/url]
+[*][url=https://github.com/TheComputerGeek2/MagicSpells/wiki]Community Wiki[/url]
+[*][url=https://forum.magicspells.dev/index.php?p=/categories/configuration-guides]Plugin Guides[/url]
+[*][url=https://forum.magicspells.dev]Official Forum[/url]
+[*][url=https://discord.magicspells.dev]Discord server[/url]
+[*][url=https://github.com/niblexis/ms-examples]Niblexis' Public Spell Repo[/url]
+[*][url=https://github.com/JasperLorelai/Expansion-MagicSpells]MagicSpells PAPI Expansion[/url]
+[*][url=https://mhaprodigy.uk/soundboard/]JasperLorelai's Soundboard[/url]
+[/list]
+
+[hr]
+[size=8]Classical MagicSpells ⭐[/size]
+This plugin was originally created by [url=https://nisovin.com/]Nisovin[/url], and published on [url=https://dev.bukkit.org/projects/magicspells]Bukkit[/url]. After some time TheComputerGeek2 took over the project, which was followed by the [url=https://forum.magicspells.dev/index.php?p=/discussion/17/community-update]Community Update[/url].
+
+[hr]
+[size=8]Support 📞[/size]
+If you need help with the plugin, our Discord server can provide you community support. You can also post suggestions there or find more resources that can be useful for you.
+
+[url=https://discord.magicspells.dev][img]https://raster.shields.io/badge/Join%20our%20Discord-blue?style=for-the-badge&color=586ff2[/img][/url]
+
+[img]https://media.discordapp.net/attachments/423551934784339968/957725621503541288/unknown.png[/img]
