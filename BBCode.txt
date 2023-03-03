@@ -5,7 +5,7 @@
 [url=https://discord.magicspells.dev][img]https://raster.shields.io/discord/335237931633606656?color=5562e9&logo=discord&logoColor=white[/img][/url][url=https://github.com/TheComputerGeek2/MagicSpells/releases][img]https://raster.shields.io/github/downloads/TheComputerGeek2/MagicSpells/total.svg[/img][/url][img]https://raster.shields.io/bstats/servers/892[/img]
 [/center]
 
-MagicSpells is a [url=https://papermc.io/]Paper[/url] plugin which gives its users the ability to modify their Minecraft servers by configuring existing features without writing Java code.  It provides you with the tools for playing with blocks of logic, bringing other plugins together, playing fantastic special effects, making your own new mechanics, and more.
+MagicSpells is a [url=https://papermc.io/]Paper[/url] plugin which gives its users the ability to modify their Minecraft servers by configuring existing features without writing Java code. It provides you with the tools for playing with blocks of logic, bringing other plugins together, playing fantastic special effects, making your own new mechanics, and more.
 
 Check out more examples of what this plugin can do in our [url=https://discord.magicspells.dev]Discord server[/url] (in the [url=https://canary.discord.com/channels/335237931633606656/468537255925907466]showcase channel[/url]).
 
@@ -15,17 +15,15 @@ Check out more examples of what this plugin can do in our [url=https://discord.m
 [*][url=url=https://github.com/TheComputerGeek2/MagicSpells/]Source Code[/url]
 [*][url=https://github.com/TheComputerGeek2/MagicSpells/releases]Plugin Releases (Downloads)[/url]
 [*][url=https://github.com/TheComputerGeek2/MagicSpells/wiki]Community Wiki[/url]
-[*][url=https://forum.magicspells.dev/index.php?p=/categories/configuration-guides]Plugin Guides[/url]
-[*][url=https://forum.magicspells.dev]Official Forum[/url]
 [*][url=https://discord.magicspells.dev]Discord server[/url]
 [*][url=https://github.com/niblexis/ms-examples]Niblexis' Public Spell Repo[/url]
 [*][url=https://github.com/JasperLorelai/Expansion-MagicSpells]MagicSpells PAPI Expansion[/url]
-[*][url=https://mhaprodigy.uk/soundboard/]JasperLorelai's Soundboard[/url]
+[*][url=https://jasperlorelai.eu/soundboard/]JasperLorelai's Soundboard[/url]
 [/list]
 
 [center]_________________________________________________________________________________________________________________________________[/center]
 [size=8]Classical MagicSpells[/size]
-This plugin was originally created by [url=https://nisovin.com/]Nisovin[/url], and published on [url=https://dev.bukkit.org/projects/magicspells]Bukkit[/url]. After some time TheComputerGeek2 took over the project, which was followed by the [url=https://forum.magicspells.dev/index.php?p=/discussion/17/community-update]Community Update[/url].
+This plugin was originally created by [url=https://nisovin.com/]Nisovin[/url], and published on [url=https://dev.bukkit.org/projects/magicspells]Bukkit[/url]. After some time TheComputerGeek2 took over the project and published here and [url=https://modrinth.com/plugin/magicspells]Modrinth[/url].
 
 [center]_________________________________________________________________________________________________________________________________[/center]
 [size=8]Support[/size]
