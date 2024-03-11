@@ -1,8 +1,8 @@
 [center]
-[img]https://media.discordapp.net/attachments/335237931633606656/595352328341684427/Untitled.png[/img]
+[img]https://files.jasperlorelai.eu/magicspells/images/readme_icon.png[/img]
 [center]_________________________________________________________________________________________________________________________________[/center]
 [size=8][i]Magic without writing Java[/i][/size]
-[url=https://github.com/TheComputerGeek2/MagicSpells/actions][img]https://raster.shields.io/github/actions/workflow/status/TheComputerGeek2/MagicSpells/build.yml.svg[/img][/url][img]https://raster.shields.io/github/license/TheComputerGeek2/MagicSpells.svg[/img][url=https://discord.magicspells.dev][img]https://raster.shields.io/discord/335237931633606656?color=5562e9&logo=discord&logoColor=white[/img][/url][url=https://github.com/TheComputerGeek2/MagicSpells/releases][img]https://raster.shields.io/github/downloads/TheComputerGeek2/MagicSpells/total.svg[/img][img]https://raster.shields.io/github/downloads-pre/TheComputerGeek2/MagicSpells/latest/total.svg[/img][/url][img]https://raster.shields.io/github/license/TheComputerGeek2/MagicSpells.svg[/img][url=https://bstats.org/plugin/bukkit/MagicSpells/892][img]https://raster.shields.io/bstats/servers/892[/img][/url]
+[url=https://github.com/TheComputerGeek2/MagicSpells/actions][img]https://raster.shields.io/github/actions/workflow/status/TheComputerGeek2/MagicSpells/build.yml.svg?style=for-the-badge&logo=github[/img][/url][url=https://discord.magicspells.dev][img]https://raster.shields.io/discord/335237931633606656?style=for-the-badge&color=5562e9&logo=discord&logoColor=white[/img][/url][url=https://github.com/TheComputerGeek2/MagicSpells/releases][img]https://raster.shields.io/github/downloads/TheComputerGeek2/MagicSpells/total.svg?style=for-the-badge&logo=github[/img][/url][img]https://raster.shields.io/github/license/TheComputerGeek2/MagicSpells.svg?style=for-the-badge&logo=github[/img][url=https://bstats.org/plugin/bukkit/MagicSpells/892][img]https://raster.shields.io/bstats/servers/892?style=for-the-badge[/img][/url]
 [/center]
 
 MagicSpells is a [url=https://papermc.io/]Paper[/url] plugin which gives its users the ability to modify their Minecraft servers by configuring existing features without writing Java code. It provides you with the tools for playing with blocks of logic, bringing other plugins together, playing fantastic special effects, making your own new mechanics, and more.
@@ -39,4 +39,4 @@ If you need help with the plugin, our Discord server can provide you community s
 
 [url=https://discord.magicspells.dev][img]https://raster.shields.io/badge/Join%20our%20Discord-blue?style=for-the-badge&color=586ff2[/img][/url]
 
-[img]https://media.discordapp.net/attachments/423551934784339968/957725621503541288/unknown.png[/img]
+[center][img]https://files.jasperlorelai.eu/magicspells/images/readme_discord_screenshot.png[/img][/center]
