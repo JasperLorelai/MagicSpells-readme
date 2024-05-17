@@ -7,7 +7,7 @@
 
 MagicSpells is a [url=https://papermc.io/]Paper[/url] plugin which gives its users the ability to modify their Minecraft servers by configuring existing features without writing Java code. It provides you with the tools for playing with blocks of logic, bringing other plugins together, playing fantastic special effects, making your own new mechanics, and more.
 
-Check out more examples of what this plugin can do in our [url=https://discord.magicspells.dev]Discord server[/url] (in the [url=https://canary.discord.com/channels/335237931633606656/468537255925907466]showcase channel[/url]).
+Check out more examples of what this plugin can do in our [url=https://discord.magicspells.dev]Discord server[/url] (in the [url=https://canary.discord.com/channels/335237931633606656/1062270620911550524]resources channel[/url] and [url=https://canary.discord.com/channels/335237931633606656/1020045264343552010]workshop channel[/url]).
 
 
 
@@ -28,7 +28,7 @@ Check out more examples of what this plugin can do in our [url=https://discord.m
 [center]_________________________________________________________________________________________________________________________________[/center]
 [size=8]Classical MagicSpells[/size]
 
-This plugin was originally created by [url=https://nisovin.com/]Nisovin[/url], and published on [url=https://dev.bukkit.org/projects/magicspells]Bukkit[/url]. After some time TheComputerGeek2 took over the project and published here and on [url=https://modrinth.com/plugin/magicspells]Modrinth[/url].
+This plugin was originally created by [url=https://nisovin.com/]Nisovin[/url], and published on [url=https://dev.bukkit.org/projects/magicspells]Bukkit[/url]. After some time TheComputerGeek2 took over the project and published here and on [url=https://modrinth.com/plugin/magicspells]Modrinth[/url] and [url=https://hangar.papermc.io/MagicSpells/MagicSpells]Hangar[/url].
 
 
 
